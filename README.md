@@ -1,6 +1,6 @@
 #csus-constitution
 
-This repository contains the official CSUS constitution at Western University.
+This repository contains the official [Computer Science Undergraduate Society](http://csus.csd.uwo.ca) constitution at [Western University](http://uwo.ca).
 
 ## Compiling
 
